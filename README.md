@@ -32,6 +32,7 @@ This is how we will be grading your challenge:
 5. How you communicate difficulties or feedback back to the Product team.
 6. Have you committed daily with good commit messages?
 7. Have you used docker for deployment?
+8. Have you included API documentation?
 
 ## Specs
 
