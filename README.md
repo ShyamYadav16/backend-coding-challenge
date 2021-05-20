@@ -26,10 +26,12 @@ This is how we will be grading your challenge:
 
 1. Did you follow the specs? If not, did you have a good reason for it?
 2. How did you fill the gaps in the specs?
-3. How easy is to follow your code (clean, documented, good commit messages, etc)
+3. How easy is to follow your code (clean, documented etc)
 4. Is your code tested?
 5. Is it easy to deploy your solution to the cloud provider of your choice?
 5. How you communicate difficulties or feedback back to the Product team.
+6. Have you committed daily with good commit messages?
+7. Have you used docker for deployment?
 
 ## Specs
 
